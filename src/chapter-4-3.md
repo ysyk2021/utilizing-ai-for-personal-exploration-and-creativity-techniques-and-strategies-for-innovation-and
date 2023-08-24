@@ -1,5 +1,3 @@
-Improving Self-Expression and Communication with AI-Enabled Natural Language Processing (NLP)
-========================================================================================================================================================================
 
 AI technology can be used to enhance personal exploration and creativity by improving self-expression and communication. In this chapter, we will explore how AI-enabled natural language processing (NLP) can be used to achieve this goal.
 

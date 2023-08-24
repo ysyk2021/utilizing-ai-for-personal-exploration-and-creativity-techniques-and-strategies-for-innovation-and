@@ -1,5 +1,3 @@
-Chapter 3: Getting Started with AI-Enabled Personal Transformation
-==================================================================
 
 Artificial intelligence (AI) technology offers numerous possibilities for personal exploration and creativity. However, to fully realize the potential of AI, individuals need to take several key steps to get started with AI-enabled personal transformation. In this chapter, we will explore these steps.
 
