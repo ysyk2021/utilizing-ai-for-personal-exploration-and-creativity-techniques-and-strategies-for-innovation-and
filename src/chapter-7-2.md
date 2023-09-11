@@ -1,5 +1,4 @@
-Chapter 5: Identifying Key Performance Metrics and Goals for AI-Enabled Personal Optimization
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In your quest for personal optimization and self-improvement, artificial intelligence (AI) can serve as a powerful ally. However, to ensure that AI effectively contributes to your journey, it's essential to define key performance metrics and goals. In this chapter, we will explore how to identify the metrics that matter most and establish meaningful objectives for AI-driven personal optimization.
 

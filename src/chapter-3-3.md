@@ -1,5 +1,4 @@
-Chapter 8: Creating a Customized Roadmap for AI Implementation in Your Personal Strategy
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As you embark on the journey of utilizing artificial intelligence (AI) for personal exploration and creativity, it's crucial to have a well-defined roadmap that aligns with your goals and aspirations. In this chapter, we will guide you through the process of creating a customized roadmap for implementing AI effectively within your personal strategy.
 

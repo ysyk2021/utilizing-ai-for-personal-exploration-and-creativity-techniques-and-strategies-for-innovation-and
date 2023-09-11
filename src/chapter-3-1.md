@@ -1,5 +1,4 @@
-Chapter 2: Identifying Your Personal Goals and Objectives for Optimal Success and Growth
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Setting clear and meaningful goals is a foundational step in harnessing the power of artificial intelligence (AI) for personal exploration, creativity, innovation, and inspiration. In this chapter, we'll explore the process of identifying your personal goals and objectives, which will serve as the guiding force behind your AI-driven journey towards success and growth.
 
